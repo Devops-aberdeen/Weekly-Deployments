@@ -1,6 +1,6 @@
 # May Deployments :white_check_mark:
 
-- [x] 1. 'May 2 nd' : ENV-deployment Req_406221_Mandatory Corporate Actions_Fix4 - e2e02
+- [x] 1. 'May' 2 nd : ENV-deployment Req_406221_Mandatory Corporate Actions_Fix4 - e2e02
 
 - [x] 2.May 17 : 
 
